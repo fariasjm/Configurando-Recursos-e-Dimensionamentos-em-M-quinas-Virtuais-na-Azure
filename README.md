@@ -9,5 +9,6 @@
     - D série (General purpose): Para servidores web, bancos de dados e serviços de médio porte.
     - E série (Memory optimized): Ideal para bancos de dados ou aplicações que exigem muita memória.
     - F série (Compute optimized): Adequada para cargas com muita CPU, como simulações e cálculos.
+    ![image](https://github.com/user-attachments/assets/704c654d-7bca-4562-8303-95b000550a10)
 
 
