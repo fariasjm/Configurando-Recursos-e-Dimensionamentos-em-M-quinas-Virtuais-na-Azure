@@ -1,1 +1,5 @@
-# Configurando-Recursos-e-Dimensionamentos-em-M-quinas-Virtuais-na-Azure
+# Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure
+
+Acesse o portal da Azure em https://portal.azure.com/#home.
+
+
