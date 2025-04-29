@@ -14,7 +14,7 @@
   - Rede: O Azure cria por padrão uma Virtual Network (VNet), permitindo que sua VM se comunique com outros recursos dentro da mesma rede virtual.
   - Armazenamento: Escolha o tipo de disco, como SSD Padrão ou SSD Premium, dependendo das necessidades de desempenho de sua aplicação.
   - Segurança: Configure um Security Group (grupo de segurança). Configure o acesso por IP público ou apenas por IP privado.
-  - Monitoramento: Habilite regras de alertas por tipo de métrica. Desabilite o campo Diagnóstico para não gerar consumo. Na aba Avançado, selecione algum tipo de extensão ou aplicativo de VM. Revise todas as configurações feitas e verifique a previsão de custo na calculadora. Clique em "Criar" para provisionar a máquina virtual.
+  - Monitoramento: Habilite regras de alertas por tipo de métrica. Desabilite o campo Diagnóstico para não gerar consumo. Na aba Avançado, selecione algum tipo de extensão ou aplicativo de VM.
 
   ![image](https://github.com/user-attachments/assets/8174e935-fe77-4522-b64a-f19105bf27d3)
-
+6. Revisão e Criação: Revise todas as configurações feitas e verifique a previsão de custo na calculadora. Clique em "Criar" para provisionar a máquina virtual.
